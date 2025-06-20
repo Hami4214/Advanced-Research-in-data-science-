@@ -1,1 +1,13 @@
-text file
+Summary of All Tasks Performed in This Project.
+initial plots of the data
+Perform all the time series analysis tasks to test for non-stationarity
+Make the data stationary
+Define an ARMA model
+Find the best model parameters: p,d,q
+Test model performance
+Forecast model 24 months into the future
+Repeat for both data sets
+Build an RNN-based model (LSTM, GRU)
+Model and forecast 24 months into the future
+Make plots of the models
+Compute evaluation metrics 
